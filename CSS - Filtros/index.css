@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://sm.ign.com/t/ign_es/screenshot/default/c66bfac9bc20_emhq.1280.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+img {
+    width: 200px;
+    /* filter: grayscale(100%); */
+    /* filter: blur(0.5px); */
+    filter: invert(75%) blur(0.5px);
+    opacity: 0.5;
+}
+
+.cuadrado1{
+    width: 400px;
+    height: 400px;
+    /* background-image: url("https://sm.ign.com/t/ign_es/screenshot/default/c66bfac9bc20_emhq.1280.jpg"); */
+    /* background-position: center;
+    background-size: cover; */
+    /* background-position: center;
+    background-size: cover; */
+
+}
