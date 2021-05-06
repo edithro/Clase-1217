@@ -1,0 +1,20 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedor-pizza{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.contenedor1{
+    display: flex;
+    align-items: center;
+}
+
+.pizza{
+    width: 200px;
+}

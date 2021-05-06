@@ -1,0 +1,24 @@
+.contenedor {
+    height: 100%;
+    display: flex;
+    /* flex-direction: row; valor por defecto */
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cuadrado{
+    width: 200px;
+    height: 200px;
+}
+.cuadrado1{
+    background-color: pink;
+}
+
+.cuadrado2{
+    background-color: purple;
+}
+
+.cuadrado3{
+    background-color: blue;
+}
