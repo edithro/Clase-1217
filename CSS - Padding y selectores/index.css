@@ -1,17 +1,38 @@
 .cuadrado{
+    margin:20px;
     display: inline-block;
     width: 44%;
     height: 200px;
-    background-color: yellow;
+
     padding: 20px;
     box-sizing: border-box;
 }
 
 .cuadrado2{
+    margin:20px;
     display: inline-block;
     width: 44%;
     height: 200px;
     /* padding: 20px;
     box-sizing: border-box; */
+
+}
+
+.caja{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 20px solid pink;
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    box-sizing: border-box;
+}
+
+.caja2{
+    margin:20px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
     background-color: red;
 }
