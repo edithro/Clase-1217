@@ -1,0 +1,17 @@
+.cuadrado{
+    display: inline-block;
+    width: 44%;
+    height: 200px;
+    background-color: yellow;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.cuadrado2{
+    display: inline-block;
+    width: 44%;
+    height: 200px;
+    /* padding: 20px;
+    box-sizing: border-box; */
+    background-color: red;
+}

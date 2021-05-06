@@ -1,0 +1,62 @@
+.size-fijo{
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+}
+
+.size2{
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+
+.size3{
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    background-color: yellow;
+}
+
+.size-responsive{
+    display: inline-block;
+    height: 500px;
+    width: 23%;
+    background-color: green;
+}
+
+.contenedor{
+    display: inline-block;
+    height: 100px;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: yellow;
+}
+
+.contenedor2{
+    display: inline-block;
+    height: 100px;
+    width: 20%;
+    text-align: center; 
+    border: 20px solid red;
+    box-sizing: border-box;
+    background-color: red;
+}
+
+.btn{
+    position: relative;
+    top:48%;
+}
+
+.contenedor-divs {
+    width: 50%;
+}
+
+.hola {
+    display: inline-block;
+    width: 45%;
+}
+
