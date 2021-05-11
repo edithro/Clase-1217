@@ -1,0 +1,24 @@
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+}
+
+.cuadrado:hover{
+    background-color: cyan;
+    width: 200px;
+    height: 200px;
+}
+
+.input-1:focus{
+    background-color: darkblue;
+}
+
+.google{
+    text-decoration: none;
+    color: black;
+}
+
+.google:hover{
+    color: hotpink;
+}
