@@ -1,0 +1,60 @@
+@keyframes cuadrado-pelota {
+    0% {
+        margin-left: 0px;
+        border-radius: 0%;
+    }
+    25%{
+        margin-top: 100px;
+        background-color: aqua;
+        width: 0px;
+    }
+    50% {
+        margin-left: 60px;
+        border-radius: 100%;
+    }
+    75%{
+        margin-top: 0px;
+        background-color: black;
+    }
+    100% {
+        width: 200px;
+        margin-left: 0px;
+        border-radius: 0%;
+    }
+}
+
+@keyframes cambiarColor {
+    0% {
+        background-color: green;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    44%{
+        background-color: blue;
+    }
+    75%{
+        background-color: blueviolet;
+    }
+    100%{
+        background-color: orange;
+    }
+}
+
+@keyframes respiracion {
+    0% {
+        -webkit-box-shadow: 0px 0px 35px 10px rgb(176 90 176);
+        -moz-box-shadow: 0px 0px 35px 10px rgba(176, 90, 176, 1);
+        box-shadow: 0px 0px 35px 10px rgb(176 90 176);
+    }
+    50% {
+        -webkit-box-shadow: 0px 0px 45px 15px rgb(176 90 176);
+        -moz-box-shadow: 0px 0px 45px 15px rgba(176, 90, 176, 1);
+        box-shadow: 0px 0px 45px 15px rgb(176 90 176);
+    }
+    100% {
+        -webkit-box-shadow: 0px 0px 35px 10px rgb(176 90 176);
+        -moz-box-shadow: 0px 0px 35px 10px rgba(176, 90, 176, 1);
+        box-shadow: 0px 0px 80px 10px rgb(176 90 176);
+    }
+}
