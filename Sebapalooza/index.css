@@ -205,3 +205,14 @@ footer{
     color: #5851db;
     cursor: pointer;
 }
+@media (min-width: 768px) and (max-width: 1024px) {
+    .card-quienes-somos{
+        width: 60%;
+    }
+}
+
+@media (min-width: 300px) and (max-width:767px) {
+    .card-quienes-somos{
+        width: 80%;
+    }
+}
